@@ -1,0 +1,125 @@
+characters:
+  - name: ネス
+    characteristics:
+      overview: |
+        優しく高潔で、それを実現させる力を持っている
+      name:
+        formal name: ネス
+        nick name: ネス
+        popular name: ネス
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 葦人
+        gender: 男
+        age: 21
+      physical:
+        outline: |
+
+        height: 167
+        weight: 50
+        hair color: ダークブラウン
+        hair style: 元気のいい
+        eyes: 黒目
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          おとなしい
+        features:
+          - 正直
+          - 真面目
+          - ユーモア
+          - 気が小さい
+        trauma: |
+
+      staus:
+        job: なんでも作る「魔法・魔道具屋」
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 9月9日
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: 
+    characteristics:
+      overview: |
+        
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: 
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
