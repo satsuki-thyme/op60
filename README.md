@@ -6,7 +6,7 @@
 ### プロット
 - plot/[60]plot-001.yml: プロット 第1話
 
-### etc.
+### その他
 - etc/![60]todo.md:     すること
 - etc/[60]conf.yml:     メタ設定
 - etc/[60]settings.yml: 設定
